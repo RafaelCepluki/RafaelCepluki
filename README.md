@@ -1,17 +1,20 @@
 ### Olá, meu nome é _**Rafael Cepluki**_ 
- 
-moro em Curitiba PR 🌎, estudante da TecPuc
+ <HR>
+Moro em Curitiba PR 🌎<BR> 
+Estudo na TecPuc 🏫 <BR>
+Fazendo curso de infomática 💻
 
-vamos lá acesse o google clicando [aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<hr>
 
-cod|Descrição|Verção|Data
----|-|-|-
-1|Tarefa1|1.0|01/08/2022
+### Softwares conhecidos
 
-#### Olha meu código
+* Word
+* Exel
+* Power Point
+* Visualg
+* Vs Code
 
-```
-print('Hello word')
-```
+
+
 
 
