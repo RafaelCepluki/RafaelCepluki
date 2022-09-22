@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, meu nome é _**Rafael Cepluki**_ 
+ 
+moro em Curitiba PR 🌎, estudante da TecPuc
 
-<!--
-**RafaelCepluki/RafaelCepluki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vamos lá acesse o google clicando [aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Here are some ideas to get you started:
+cod|Descrição|Verção|Data
+---|-|-|-
+1|Tarefa1|1.0|01/08/2022
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Olha meu código
+
+```
+print('Hello word')
+```
+
+
